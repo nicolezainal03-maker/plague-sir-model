@@ -1,0 +1,919 @@
+Date,Age,Sex,Cause of Death,Days Afflicted ,Type of death ,Days Since Start,Plague Flag,Age Group
+1900-01-03,22,F,Fever From Plague,60,Plague Death,0 days,1,Young Adult
+1900-01-04,25,F,Fever From Plague,60,Plague Death,1 days,1,Young Adult
+1900-01-04,14,M,Fever From Plague,60,Plague Death,1 days,1,Teen
+1900-01-08,14,M,Fever From Plague,60,Plague Death,5 days,1,Teen
+1900-01-08,5,M,Fever From Plague,60,Plague Death,5 days,1,Child
+1900-01-12,64,F,Fever From Plague ,60,Plague Death,9 days,1,Older Adult
+1900-01-15,15,F,Fever From Plague ,60,Plague Death,12 days,1,Teen
+1900-01-15,25,M,Fever From Plague ,60,Plague Death,12 days,1,Young Adult
+1900-01-18,25,M,Fever From Plague,60,Plague Death,15 days,1,Young Adult
+1900-01-20,3,M,Seizures From Plague,60,Plague Death,17 days,1,Child
+1900-01-24,3,M,Seizures From Plague,60,Plague Death,21 days,1,Child
+1900-01-24,60,F,Fever From Plague,60,Plague Death,21 days,1,Older Adult
+1900-01-25,1,M,Seizures From Plague,60,Plague Death,22 days,1,Child
+1900-01-26,0,M,Seizures From Plague,60,Plague Death,23 days,1,Infant
+1900-01-27,8,M,Dysentery from Plague,60,Plague Death,24 days,1,Child
+1900-01-27,0,F,Illness,60,Non-Plague Death,24 days,0,Infant
+1900-01-27,62,F,Stroke,60,Non-Plague Death,24 days,0,Older Adult
+1900-01-31,40,M,Fever From Plague,60,Plague Death,28 days,1,Middle Age
+1900-02-02,36,M,Fever From Plague ,60,Plague Death,30 days,1,Young Adult
+1900-02-03,18,M,Fever From Plague continua ,60,Plague Death,31 days,1,Teen
+1900-02-03,2,M,Smallpox,60,Non-Plague Death,31 days,0,Child
+1900-02-04,2,M,Seizures From Plague,60,Plague Death,32 days,1,Child
+1900-05-05,36,M,Respiratory Infection,60,Non-Plague Death,122 days,0,Young Adult
+1900-02-06,4,F,Dysentery from Plague,60,Plague Death,34 days,1,Child
+1900-02-08,2,F,Seizures From Plague,60,Plague Death,36 days,1,Child
+1900-02-08,6,M,Fever From Plague,60,Plague Death,36 days,1,Child
+1900-02-10,48,F,Fever From Plague,60,Plague Death,38 days,1,Middle Age
+1900-02-10,46,F,Fever From Plague ,60,Plague Death,38 days,1,Middle Age
+1900-02-10,62,M,Fever From Plague,60,Plague Death,38 days,1,Older Adult
+1900-02-13,60,M,Fever From Plague,60,Plague Death,41 days,1,Older Adult
+1900-02-13,0,F,Smallpox,60,Non-Plague Death,41 days,0,Infant
+1900-02-15,56,M,Fever From Plague,60,Plague Death,43 days,1,Middle Age
+1900-02-17,28,M,Fever From Plague,60,Plague Death,45 days,1,Young Adult
+1900-02-18,0,M,Illness,60,Non-Plague Death,46 days,0,Infant
+1900-02-20,0,M,Illness,60,Non-Plague Death,48 days,0,Infant
+1900-02-21,75,F,Fever From Plague e Plague,60,Plague Death,49 days,1,Older Adult
+1900-02-22,40,M,Fever From Plague e Plague,8,Plague Death,50 days,1,Middle Age
+1900-02-23,0,M,Illness,1,Non-Plague Death,51 days,0,Infant
+1900-02-27,0,M,Illness,1,Non-Plague Death,55 days,0,Infant
+1900-03-01,0,F,Illness,1,Non-Plague Death,57 days,0,Infant
+1900-03-06,0,M,Illness,1,Non-Plague Death,62 days,0,Infant
+1900-03-10,0,M,Illness,1,Non-Plague Death,66 days,0,Infant
+1900-03-12,0,M,Illness,1,Non-Plague Death,68 days,0,Infant
+1900-03-16,8,F,Fever From Plague e Dysentery from Plague,180,Plague Death,72 days,1,Child
+1900-03-16,0,M,Illness,1,Non-Plague Death,72 days,0,Infant
+1900-03-21,2,F,Smallpox,10,Non-Plague Death,77 days,0,Child
+1900-03-21,0,F,Illness,1,Non-Plague Death,77 days,0,Infant
+1900-03-23,0,F,Illness,1,Non-Plague Death,79 days,0,Infant
+1900-03-25,0,F,Illness,1,Non-Plague Death,81 days,0,Infant
+1900-03-28,11,F,Fever From Plague,120,Plague Death,84 days,1,Child
+1900-03-29,9,M,Fever From Plague,180,Plague Death,85 days,1,Child
+1900-04-01,70,F,Fever From Plague,60,Plague Death,88 days,1,Older Adult
+1900-04-02,44,F,incinta da Fever From Plague e doglie,90,Plague Death,89 days,1,Middle Age
+1900-04-04,1,M,Fever From Plague e Worms,8,Plague Death,91 days,1,Child
+1900-04-08,15,F,mal di Fever From Plague,300,Plague Death,95 days,1,Teen
+1900-04-21,8,M,Fever From Plague,300,Plague Death,108 days,1,Child
+1900-04-24,23,F,Childbirth,15,Non-Plague Death,111 days,0,Young Adult
+1900-04-26,2,M,Seizures From Plague,30,Plague Death,113 days,1,Child
+1900-05-04,3,M,Smallpox,8,Non-Plague Death,121 days,0,Child
+1900-05-08,2,M,Smallpox,8,Non-Plague Death,125 days,0,Child
+1900-05-09,50,M,Fever From Plague e petecchie,10,Plague Death,126 days,1,Middle Age
+1900-05-11,26,M,Fever From Plague,30,Plague Death,128 days,1,Young Adult
+1900-05-13,70,F,Fever From Plague,30,Plague Death,130 days,1,Older Adult
+1900-05-14,42,F,Fever From Plague e petecchie,30,Plague Death,131 days,1,Middle Age
+1900-05-15,2,M,Smallpox,11,Non-Plague Death,132 days,0,Child
+1900-05-15,1,M,Smallpox,8,Non-Plague Death,132 days,0,Child
+1900-05-19,3,F,Smallpox,40,Non-Plague Death,136 days,0,Child
+1900-05-21,3,M,Smallpox,15,Non-Plague Death,138 days,0,Child
+1900-05-27,7,M,Fever From Plague e Worms,15,Plague Death,144 days,1,Child
+1900-05-27,0,M,Seizures From Plague,8,Plague Death,144 days,1,Infant
+1900-05-29,3,M,Smallpox e Bubonic Plague,7,Plague Death,146 days,1,Child
+1900-05-30,2,F,Smallpox,9,Non-Plague Death,147 days,0,Child
+1900-05-30,40,F,Fever From Plague,20,Plague Death,147 days,1,Middle Age
+1900-06-01,24,M,Died Suddenly ,0,Non-Plague Death,149 days,0,Young Adult
+1900-06-01,60,F,Fever From Plague e petecchie,12,Plague Death,149 days,1,Older Adult
+1900-06-02,6,M,Smallpox,5,Non-Plague Death,150 days,0,Child
+1900-06-02,2,F,Smallpox,8,Non-Plague Death,150 days,0,Child
+1900-06-02,7,M,Smallpox,8,Non-Plague Death,150 days,0,Child
+1900-06-03,1,M,Smallpox,12,Non-Plague Death,151 days,0,Child
+1900-06-04,9,M,Smallpox,12,Non-Plague Death,152 days,0,Child
+1900-06-05,2,F,Smallpox,9,Non-Plague Death,153 days,0,Child
+1900-06-08,0,M,Smallpox,8,Non-Plague Death,156 days,0,Infant
+1900-06-11,5,M,Smallpox,5,Non-Plague Death,159 days,0,Child
+1900-06-13,32,M,Fever From Plague,8,Plague Death,161 days,1,Young Adult
+1900-06-13,0,M,Smallpox,8,Non-Plague Death,161 days,0,Infant
+1900-06-15,0,M,Smallpox,11,Non-Plague Death,163 days,0,Infant
+1900-06-16,0,M,Smallpox,8,Non-Plague Death,164 days,0,Infant
+1900-06-16,76,F,Fever From Plague e Plague,60,Plague Death,164 days,1,Older Adult
+1900-06-17,3,M,Fever From Plague e Smallpox,20,Plague Death,165 days,1,Child
+1900-06-18,1,M,Smallpox,30,Non-Plague Death,166 days,0,Child
+1900-06-22,0,M,Smallpox,9,Non-Plague Death,170 days,0,Infant
+1900-06-22,8,M,Smallpox e Bubonic Plague,15,Plague Death,170 days,1,Child
+1900-06-26,60,M,Fever From Plague,60,Plague Death,174 days,1,Older Adult
+1900-06-28,0,F,Smallpox e Bubonic Plague,6,Plague Death,176 days,1,Infant
+1900-07-02,3,F,Smallpox,6,Non-Plague Death,180 days,0,Child
+1900-07-03,4,M,Fever From Plague e Smallpox,40,Plague Death,181 days,1,Child
+1900-07-04,3,F,Smallpox e Bubonic Plague,8,Plague Death,182 days,1,Child
+1900-07-05,3,M,Smallpox,10,Non-Plague Death,183 days,0,Child
+1900-07-05,36,M,Fever From Plague,30,Plague Death,183 days,1,Young Adult
+1900-07-06,30,M,Fever From Plague continua,10,Plague Death,184 days,1,Young Adult
+1900-07-07,0,F,Seizures From Plague,60,Plague Death,185 days,1,Infant
+1900-07-08,33,M,Fever From Plague maligna,20,Plague Death,186 days,1,Young Adult
+1900-07-08,3,M,Smallpox,10,Non-Plague Death,186 days,0,Child
+1900-07-10,3,F,Smallpox,15,Non-Plague Death,188 days,0,Child
+1900-07-12,1,F,Smallpox,15,Non-Plague Death,190 days,0,Child
+1900-07-12,35,M,Fever From Plague e petecchie,8,Plague Death,190 days,1,Young Adult
+1900-07-13,4,M,Fever From Plague,15,Plague Death,191 days,1,Child
+1900-07-14,7,M,Seizures From Plague,365,Plague Death,192 days,1,Child
+1900-07-16,1,F,Smallpox e Bubonic Plague,12,Plague Death,194 days,1,Child
+1900-07-16,4,M,Smallpox e Bubonic Plague,30,Plague Death,194 days,1,Child
+1900-07-16,70,M,Fever From Plague,15,Plague Death,194 days,1,Older Adult
+1900-07-16,18,M,Fever From Plague,10,Plague Death,194 days,1,Teen
+1900-07-16,1,F,Smallpox,10,Non-Plague Death,194 days,0,Child
+1900-07-16,1,F,Seizures From Plague,10,Plague Death,194 days,1,Child
+1900-07-17,3,F,Smallpox,12,Non-Plague Death,195 days,0,Child
+1900-07-18,1,M,Seizures From Plague,7,Plague Death,196 days,1,Child
+1900-07-18,23,M,Fever From Plague,9,Plague Death,196 days,1,Young Adult
+1900-07-19,5,M,Smallpox,12,Non-Plague Death,197 days,0,Child
+1900-07-20,50,M,Fever From Plague,11,Plague Death,198 days,1,Middle Age
+1900-07-22,1,F,Smallpox,8,Non-Plague Death,200 days,0,Child
+1900-07-22,1,M,Seizures From Plague,(sempre),Plague Death,200 days,1,Child
+1900-07-22,23,F,Childbirth e Fever From Plague,11,Plague Death,200 days,1,Young Adult
+1900-07-24,9,F,Fever From Plague,90,Plague Death,202 days,1,Child
+1900-07-24,30,M,Drowning,0,Non-Plague Death,202 days,0,Young Adult
+1900-07-24,75,F,Fever From Plague,15,Plague Death,202 days,1,Older Adult
+1900-07-25,30,F,Fever From Plague e Respiratory Infection,20,Plague Death,203 days,1,Young Adult
+1900-07-30,60,M,Fever From Plague,60,Plague Death,208 days,1,Older Adult
+1900-08-01,10,M,Fever From Plague maligna,180,Plague Death,210 days,1,Child
+1900-08-02,84,F,Fever From Plague e Plague,240,Plague Death,211 days,1,Older Adult
+1900-08-04,8,M,Fever From Plague,150,Plague Death,213 days,1,Child
+1900-08-06,35,M,Fever From Plague maligna,8,Plague Death,215 days,1,Young Adult
+1900-08-07,16,M,Fever From Plague,40,Plague Death,216 days,1,Teen
+1900-08-08,3,F,Seizures From Plague,180,Plague Death,217 days,1,Child
+1900-08-08,2,F,Seizures From Plague,(sempre),Plague Death,217 days,1,Child
+1900-08-11,0,M,Smallpox,40,Non-Plague Death,220 days,0,Infant
+1900-08-12,79,F,Plague,365,Plague Death,221 days,1,Older Adult
+1900-08-13,50,F,Fever From Plague,180,Plague Death,222 days,1,Middle Age
+1900-08-17,46,F,Fever From Plague e doglie di testa,20,Plague Death,226 days,1,Middle Age
+1900-08-18,60,M,Fever From Plague,10,Plague Death,227 days,1,Older Adult
+1900-08-21,7,M,Fever From Plague,30,Plague Death,230 days,1,Child
+1900-08-22,1,F,Smallpox,15,Non-Plague Death,231 days,0,Child
+1900-08-22,0,F,Smallpox,60,Non-Plague Death,231 days,0,Infant
+1900-08-24,36,M,Fever From Plague,30,Plague Death,233 days,1,Young Adult
+1900-08-31,55,M,Fever From Plague,8,Plague Death,240 days,1,Middle Age
+1900-09-03,30,M,Fever From Plague,55,Plague Death,243 days,1,Young Adult
+1900-09-03,1,F,Seizures From Plague,60,Plague Death,243 days,1,Child
+1900-09-04,80,F,Fever From Plague e Plague,540,Plague Death,244 days,1,Older Adult
+1900-09-04,40,M,Fever From Plague,15,Plague Death,244 days,1,Middle Age
+1900-09-04,35,M,Fever From Plague maligna,3,Plague Death,244 days,1,Young Adult
+1900-09-04,48,F,Fever From Plague,30,Plague Death,244 days,1,Middle Age
+1900-09-09,30,F,Fever From Plague,360,Plague Death,249 days,1,Young Adult
+1900-09-09,3,M,Seizures From Plague,(sempre),Plague Death,249 days,1,Child
+1900-09-10,2,M,Seizures From Plague e Bubonic Plague,420,Plague Death,250 days,1,Child
+1900-09-10,50,F,Stroke,360,Non-Plague Death,250 days,0,Middle Age
+1900-09-12,74,F,Fever From Plague continua e altre indisposizioni,90,Plague Death,252 days,1,Older Adult
+1900-09-13,0,M,Seizures From Plague,90,Plague Death,253 days,1,Infant
+1900-09-13,0,M,Seizures From Plague,15,Plague Death,253 days,1,Infant
+1900-09-16,1,F,Smallpox,60,Non-Plague Death,256 days,0,Child
+1900-09-17,3,F,Fever From Plague e Smallpox,120,Plague Death,257 days,1,Child
+1900-09-17,56,F,Fever From Plague e petecchie,4,Plague Death,257 days,1,Middle Age
+1900-09-18,60,F,Fever From Plague maligna,8,Plague Death,258 days,1,Older Adult
+1900-09-24,5,F,Seizures From Plague,(sempre),Plague Death,264 days,1,Child
+1900-09-26,72,F,Fever From Plague continua,30,Plague Death,266 days,1,Older Adult
+1900-09-27,1,M,Smallpox e Bubonic Plague,10,Plague Death,267 days,1,Child
+1900-09-28,34,M,Fever From Plague,9,Plague Death,268 days,1,Young Adult
+1900-09-30,26,M,Fever From Plague e Respiratory Infection,4,Plague Death,270 days,1,Young Adult
+1900-10-01,33,F,Fever From Plague,11,Plague Death,271 days,1,Young Adult
+1900-10-01,26,F,Fever From Plague e Plague,8,Plague Death,271 days,1,Young Adult
+1900-10-01,56,M,Fever From Plague continua,22,Plague Death,271 days,1,Middle Age
+1900-10-02,0,M,Childbirth,0,Non-Plague Death,272 days,0,Infant
+1900-10-02,16,F,Fever From Plague e una scorencia,3,Plague Death,272 days,1,Teen
+1900-10-02,50,M,Died Suddenly ,4,Non-Plague Death,272 days,0,Middle Age
+1900-10-04,38,M,Fever From Plague maligna,8,Plague Death,274 days,1,Young Adult
+1900-10-04,60,M,Fever From Plague maligna,3,Plague Death,274 days,1,Older Adult
+1900-10-04,0,F,Seizures From Plague,(sempre),Plague Death,274 days,1,Infant
+1900-10-05,11,M,Fever From Plague,15,Plague Death,275 days,1,Child
+1900-10-06,16,F,Fever From Plague e Seizures From Plague,8,Plague Death,276 days,1,Teen
+1900-10-06,46,F,Fever From Plague,4,Plague Death,276 days,1,Middle Age
+1900-10-07,36,F,Fever From Plague e petecchie,8,Plague Death,277 days,1,Young Adult
+1900-10-08,12,M,Fever From Plague e Seizures From Plague,1440,Plague Death,278 days,1,Child
+1900-10-08,12,F,Fever From Plague e Seizures From Plague,7,Plague Death,278 days,1,Child
+1900-10-08,40,M,Bubonic Plague,6,Plague Death,278 days,1,Middle Age
+1900-10-08,70,F,Fever From Plague e doglie di testa,9,Plague Death,278 days,1,Older Adult
+1900-10-09,48,M,Fever From Plague e Plague,8,Plague Death,279 days,1,Middle Age
+1900-10-09,50,F,Fever From Plague e Respiratory Infection,8,Plague Death,279 days,1,Middle Age
+1900-10-10,13,M,Fever From Plague continua,10,Plague Death,280 days,1,Teen
+1900-10-10,31,M,Plague,8,Plague Death,280 days,1,Young Adult
+1900-10-11,29,M,Seizures From Plague,3,Plague Death,281 days,1,Young Adult
+1900-10-11,54,F,Fever From Plague continua,360,Plague Death,281 days,1,Middle Age
+1900-10-11,19,F,Childbirth,12,Non-Plague Death,281 days,0,Teen
+1900-10-11,0,F,Illness,1,Non-Plague Death,281 days,0,Infant
+1900-10-13,70,M,Fever From Plague,30,Plague Death,283 days,1,Older Adult
+1900-10-13,2,F,Seizures From Plague,4,Plague Death,283 days,1,Child
+1900-10-14,26,M,Fever From Plague continua,8,Plague Death,284 days,1,Young Adult
+1900-10-14,3,M,Seizures From Plague e Worms,6,Plague Death,284 days,1,Child
+1900-10-15,20,F,Died Suddenly ,1,Non-Plague Death,285 days,0,Young Adult
+1900-10-15,40,M,Fever From Plague,3,Plague Death,285 days,1,Middle Age
+1900-10-15,20,M,Fever From Plague e Plague,5,Plague Death,285 days,1,Young Adult
+1900-10-15,0,M,Illness,1,Non-Plague Death,285 days,0,Infant
+1900-10-16,42,F,Fever From Plague,18,Plague Death,286 days,1,Middle Age
+1900-10-16,54,F,Plague e Plague,2880,Plague Death,286 days,1,Middle Age
+1900-10-16,9,M,Seizures From Plague,8,Plague Death,286 days,1,Child
+1900-10-16,10,F,Fever From Plague e Worms,6,Plague Death,286 days,1,Child
+1900-10-17,5,M,Seizures From Plague e Worms,9,Plague Death,287 days,1,Child
+1900-10-17,0,F,Seizures From Plague,8,Plague Death,287 days,1,Infant
+1900-10-17,19,F,Plague,4,Plague Death,287 days,1,Teen
+1900-10-17,27,F,Plague,4,Plague Death,287 days,1,Young Adult
+1900-10-17,40,F,Plague Sickness ,6,Plague Death,287 days,1,Middle Age
+1900-10-18,34,F,Plaguee Fever From Plague maligna,5,Plague Death,288 days,1,Young Adult
+1900-10-18,6,F,Fever From Plague,5,Plague Death,288 days,1,Child
+1900-10-18,28,F,Fever From Plague e doglie di testa,5,Plague Death,288 days,1,Young Adult
+1900-10-18,30,F,Fever From Plague e doglie di testa,Unkown,Plague Death,288 days,1,Young Adult
+1900-10-18,18,F,Plaguee Fever From Plague maligna,3,Plague Death,288 days,1,Teen
+1900-10-18,0,M,Illness,1,Non-Plague Death,288 days,0,Infant
+1900-10-18,22,F,Plague,5,Plague Death,288 days,1,Young Adult
+1900-10-19,13,M,Fever From Plague e Seizures From Plague,120,Plague Death,289 days,1,Teen
+1900-10-19,0,M,Seizures From Plague,(sempre),Plague Death,289 days,1,Infant
+1900-10-19,1,M,Seizures From Plague e Worms,9,Plague Death,289 days,1,Child
+1900-10-19,38,F,Fever From Plague,5,Plague Death,289 days,1,Young Adult
+1900-10-19,10,F,Plague,4,Plague Death,289 days,1,Child
+1900-10-19,15,F,Plaguee Fever From Plague maligna,4,Plague Death,289 days,1,Teen
+1900-10-20,9,M,Plague,3,Plague Death,290 days,1,Child
+1900-10-20,22,F,Childbirth,5,Non-Plague Death,290 days,0,Young Adult
+1900-10-20,8,M,Seizures From Plague,3,Plague Death,290 days,1,Child
+1900-10-20,46,F,Plaguee Fever From Plague maligna,6,Plague Death,290 days,1,Middle Age
+1900-10-20,5,M,Seizures From Plague,Unkown,Plague Death,290 days,1,Child
+1900-10-20,10,M,Plague Sickness ,4,Plague Death,290 days,1,Child
+1900-10-20,40,M,Fever From Plague,5,Plague Death,290 days,1,Middle Age
+1900-10-20,46,M,Plague Sickness ,2,Plague Death,290 days,1,Middle Age
+1900-10-20,90,F,Fever From Plague,8,Plague Death,290 days,1,Older Adult
+1900-10-20,0,F,Illness,1,Non-Plague Death,290 days,0,Infant
+1900-10-21,80,F,Fever From Plague,2,Plague Death,291 days,1,Older Adult
+1900-10-21,18,F,Fever From Plague maligna,18,Plague Death,291 days,1,Teen
+1900-10-21,24,F,Fever From Plague,5,Plague Death,291 days,1,Young Adult
+1900-10-21,19,M,Fever From Plague maligna,9,Plague Death,291 days,1,Teen
+1900-10-21,22,M,Fever From Plague e Plague,8,Plague Death,291 days,1,Young Adult
+1900-10-21,13,M,Fever From Plague,8,Plague Death,291 days,1,Teen
+1900-10-21,14,M,Fever From Plague,30,Plague Death,291 days,1,Teen
+1900-10-21,90,F,Fever From Plague e Plague,7,Plague Death,291 days,1,Older Adult
+1900-10-21,10,M,Plague,10,Plague Death,291 days,1,Child
+1900-10-21,90,F,Plague e Fever From Plague,3,Plague Death,291 days,1,Older Adult
+1900-10-21,46,F,Plaguepestilenziali,2,Plague Death,291 days,1,Middle Age
+1900-10-21,40,F,Fever From Plague continua,17,Plague Death,291 days,1,Middle Age
+1900-10-21,75,F,Fever From Plague e Respiratory Infection,8,Plague Death,291 days,1,Older Adult
+1900-10-21,8,M,Fever From Plague,6,Plague Death,291 days,1,Child
+1900-10-21,15,M,Fever From Plague e Plague,10,Plague Death,291 days,1,Teen
+1900-10-21,50,F,Fever From Plague,5,Plague Death,291 days,1,Middle Age
+1900-10-21,11,M,Fever From Plague,20,Plague Death,291 days,1,Child
+1900-10-22,17,F,Fever From Plague,4,Plague Death,292 days,1,Teen
+1900-10-22,0,F,Seizures From Plague e Worms,2,Plague Death,292 days,1,Infant
+1900-10-22,2,M,Fever From Plague,180,Plague Death,292 days,1,Child
+1900-10-22,21,F,Childbirth,6,Non-Plague Death,292 days,0,Young Adult
+1900-10-23,40,M,Fever From Plague e un Sudden,5,Plague Death,293 days,1,Middle Age
+1900-10-23,32,M,Fever From Plague e petecchie,5,Plague Death,293 days,1,Young Adult
+1900-10-23,40,F,Respiratory Infection,6,Non-Plague Death,293 days,0,Middle Age
+1900-10-23,6,M,Fever From Plague,10,Plague Death,293 days,1,Child
+1900-10-23,56,F,Fever From Plague,3,Plague Death,293 days,1,Middle Age
+1900-10-23,10,M,Fever From Plague,4,Plague Death,293 days,1,Child
+1900-10-24,50,F,Fever From Plague,7,Plague Death,294 days,1,Middle Age
+1900-10-24,48,F,Plague Sickness ,4,Plague Death,294 days,1,Middle Age
+1900-10-24,57,F,Fever From Plague,3,Plague Death,294 days,1,Middle Age
+1900-10-24,6,M,Worms,8,Non-Plague Death,294 days,0,Child
+1900-10-24,24,M,Plague,4,Plague Death,294 days,1,Young Adult
+1900-10-24,70,F,Fever From Plague e Plague,7,Plague Death,294 days,1,Older Adult
+1900-10-24,4,F,Plague,8,Plague Death,294 days,1,Child
+1900-10-24,40,M,Fever From Plague maligna,8,Plague Death,294 days,1,Middle Age
+1900-10-25,40,F,Plague,2,Plague Death,295 days,1,Middle Age
+1900-10-25,0,F,Illness,1,Non-Plague Death,295 days,0,Infant
+1900-10-25,1,M,Terminal Illness ,sempre,Non-Plague Death,295 days,0,Child
+1900-10-25,18,F,Fever From Plague e doglie di testa,4,Plague Death,295 days,1,Teen
+1900-10-25,2,F,Dysentery from Plague,330,Plague Death,295 days,1,Child
+1900-10-25,40,M,Fever From Plague,6,Plague Death,295 days,1,Middle Age
+1900-10-26,0,F,Seizures From Plague,8,Plague Death,296 days,1,Infant
+1900-10-26,14,M,Fever From Plague,4,Plague Death,296 days,1,Teen
+1900-10-26,28,M,Plague,6,Plague Death,296 days,1,Young Adult
+1900-10-26,0,F,Seizures From Plague,2,Plague Death,296 days,1,Infant
+1900-10-27,30,M,Seizures From Plague,4,Plague Death,297 days,1,Young Adult
+1900-10-27,27,M,Most Likely Plague,4,Plague Death,297 days,1,Young Adult
+1900-10-27,35,M,Plague,5,Plague Death,297 days,1,Young Adult
+1900-10-27,30,F,Childbirth,2,Non-Plague Death,297 days,0,Young Adult
+1900-10-27,40,F,Fever From Plague e doglia di schiena,5,Plague Death,297 days,1,Middle Age
+1900-10-27,35,M,Plague,6,Plague Death,297 days,1,Young Adult
+1900-10-27,25,M,Fever From Plague e petecchie,10,Plague Death,297 days,1,Young Adult
+1900-10-27,80,F,Fever From Plague,2,Plague Death,297 days,1,Older Adult
+1900-10-27,24,M,Fever From Plague e Trauma ,9,Plague Death,297 days,1,Young Adult
+1900-10-27,20,F,Plague Sickness ,9,Plague Death,297 days,1,Young Adult
+1900-10-27,70,M,Fever From Plague e Trauma ,4,Plague Death,297 days,1,Older Adult
+1900-10-27,12,M,Fever From Plague e Trauma ,3,Plague Death,297 days,1,Child
+1900-10-28,1,F,Seizures From Plague e infermità,sempre,Plague Death,298 days,1,Child
+1900-10-28,24,F,Plaguee Seizures From Plague,3,Plague Death,298 days,1,Young Adult
+1900-10-28,7,F,Fever From Plague,5,Plague Death,298 days,1,Child
+1900-10-28,38,M,Fever From Plague etica e Respiratory Infection,150,Plague Death,298 days,1,Young Adult
+1900-10-28,17,F,Plague,4,Plague Death,298 days,1,Teen
+1900-10-28,50,F,Fever From Plague,8,Plague Death,298 days,1,Middle Age
+1900-10-28,24,M,Unkown,Unkown,Non-Plague Death,298 days,0,Young Adult
+1900-10-28,0,M,Illness,1,Non-Plague Death,298 days,0,Infant
+1900-10-28,50,M,Fever From Plague e doglia,4,Plague Death,298 days,1,Middle Age
+1900-10-29,22,M,Fever From Plague,2,Plague Death,299 days,1,Young Adult
+1900-10-29,2,M,Seizures From Plague e Worms,12,Plague Death,299 days,1,Child
+1900-10-29,63,F,Fever From Plague,2,Plague Death,299 days,1,Older Adult
+1900-10-29,0,M,Illness,1,Non-Plague Death,299 days,0,Infant
+1900-10-29,13,M,Fever From Plague e Plague,2,Plague Death,299 days,1,Teen
+1900-10-29,50,F,Fever From Plague e petecchie,2,Plague Death,299 days,1,Middle Age
+1900-10-29,2,F,Worms,3,Non-Plague Death,299 days,0,Child
+1900-10-30,2,F,Worms,3,Non-Plague Death,300 days,0,Child
+1900-10-30,13,M,Fever From Plague e petecchie,6,Plague Death,300 days,1,Teen
+1900-10-30,25,F,Childbirth,3,Non-Plague Death,300 days,0,Young Adult
+1900-10-30,5,F,Fever From Plague,4,Plague Death,300 days,1,Child
+1900-10-30,34,F,Seizures From Plague,4,Plague Death,300 days,1,Young Adult
+1900-10-30,40,F,Fever From Plague,3,Plague Death,300 days,1,Middle Age
+1900-10-30,20,F,Fever From Plague e petecchie,2,Plague Death,300 days,1,Young Adult
+1900-10-30,11,M,Unkown,Unkown,Non-Plague Death,300 days,0,Child
+1900-10-30,19,M,Unkown,Unkown,Non-Plague Death,300 days,0,Teen
+1900-10-30,4,F,Worms,4,Non-Plague Death,300 days,0,Child
+1900-10-30,37,M,Plague Sickness ,3,Plague Death,300 days,1,Young Adult
+1900-10-30,12,F,Worms,6,Non-Plague Death,300 days,0,Child
+1900-10-30,5,F,Plague,2,Plague Death,300 days,1,Child
+1900-10-30,10,M,Seizures From Plague,3,Plague Death,300 days,1,Child
+1900-10-30,40,F,Plague Sickness ,5,Plague Death,300 days,1,Middle Age
+1900-10-31,2,M,Seizures From Plague e Worms,3,Plague Death,301 days,1,Child
+1900-10-31,10,M,Headache e Worms,3,Non-Plague Death,301 days,0,Child
+1900-10-31,34,F,Seizures From Plague,0,Plague Death,301 days,1,Young Adult
+1900-10-31,32,F,Childbirth,3,Non-Plague Death,301 days,0,Young Adult
+1900-10-31,12,M,Trauma ,5,Non-Plague Death,301 days,0,Child
+1900-10-31,24,M,Fever From Plague e petecchie,5,Plague Death,301 days,1,Young Adult
+1900-10-31,14,F,Fever From Plague,3,Plague Death,301 days,1,Teen
+1900-10-31,10,F,Fever From Plague,3,Plague Death,301 days,1,Child
+1900-10-31,13,F,Fever From Plague,3,Plague Death,301 days,1,Teen
+1900-10-31,12,F,Fever From Plague e Trauma ,4,Plague Death,301 days,1,Child
+1900-10-31,10,F,Fever From Plague e Worms,4,Plague Death,301 days,1,Child
+1900-10-31,19,F,Plague,5,Plague Death,301 days,1,Teen
+1900-10-31,35,F,Fever From Plague e Trauma ,3,Plague Death,301 days,1,Young Adult
+1900-10-31,34,M,Plague,4,Plague Death,301 days,1,Young Adult
+1900-10-31,34,F,Childbirth,7,Non-Plague Death,301 days,0,Young Adult
+1900-10-31,40,F,mal di Plague,3,Plague Death,301 days,1,Middle Age
+1900-10-31,10,F,Plaguepestilenziali,4,Plague Death,301 days,1,Child
+1900-10-31,11,F,Seizures From Plague,5,Plague Death,301 days,1,Child
+1900-10-31,11,F,Fever From Plague e Worms,4,Plague Death,301 days,1,Child
+1900-10-31,70,F,Fever From Plague,4,Plague Death,301 days,1,Older Adult
+1900-10-31,40,M,Fever From Plague,10,Plague Death,301 days,1,Middle Age
+1900-10-31,21,F,Plague,3,Plague Death,301 days,1,Young Adult
+1900-11-01,21,F,Childbirth,10,Non-Plague Death,302 days,0,Young Adult
+1900-11-01,50,F,Fever From Plague,5,Plague Death,302 days,1,Middle Age
+1900-11-01,3,F,Fever From Plague,4,Plague Death,302 days,1,Child
+1900-11-01,5,F,Fever From Plague e doglie di testa,5,Plague Death,302 days,1,Child
+1900-11-01,2,F,Bubonic Plague ,0,Plague Death,302 days,1,Child
+1900-11-01,40,F,Fever From Plague,5,Plague Death,302 days,1,Middle Age
+1900-11-01,4,F,Worms,5,Non-Plague Death,302 days,0,Child
+1900-11-01,12,M,Trauma ,2,Non-Plague Death,302 days,0,Child
+1900-11-01,40,M,Fever From Plague,7,Plague Death,302 days,1,Middle Age
+1900-11-01,22,M,Fever From Plague etica,180,Plague Death,302 days,1,Young Adult
+1900-11-01,0,F,Seizures From Plague,2,Plague Death,302 days,1,Infant
+1900-11-01,40,M,Fever From Plague,6,Plague Death,302 days,1,Middle Age
+1900-11-01,14,M,Fever From Plague,8,Plague Death,302 days,1,Teen
+1900-11-01,32,F,Seizures From Plague,5,Plague Death,302 days,1,Young Adult
+1900-11-01,7,F,Plague,3,Plague Death,302 days,1,Child
+1900-11-02,13,F,Fever From Plague,3,Plague Death,303 days,1,Teen
+1900-11-02,16,F,Headache,8,Non-Plague Death,303 days,0,Teen
+1900-11-02,4,M,Seizures From Plague,4,Plague Death,303 days,1,Child
+1900-11-02,4,F,Seizures From Plague,8,Plague Death,303 days,1,Child
+1900-11-02,90,F,Fever From Plague e Plague,720,Plague Death,303 days,1,Older Adult
+1900-11-02,0,M,Illness,0,Non-Plague Death,303 days,0,Infant
+1900-11-02,14,F,Fever From Plague,4,Plague Death,303 days,1,Teen
+1900-11-02,7,F,Fever From Plague,3,Plague Death,303 days,1,Child
+1900-11-02,50,F,Fever From Plague e Seizures From Plague,5,Plague Death,303 days,1,Middle Age
+1900-11-02,34,F,Fever From Plague,4,Plague Death,303 days,1,Young Adult
+1900-11-02,3,M,Seizures From Plague,2,Plague Death,303 days,1,Child
+1900-11-02,12,F,Plague,22,Plague Death,303 days,1,Child
+1900-11-02,7,F,Plague,7,Plague Death,303 days,1,Child
+1900-11-02,46,F,Fever From Plague,8,Plague Death,303 days,1,Middle Age
+1900-11-03,32,F,Childbirth,0,Non-Plague Death,304 days,0,Young Adult
+1900-11-03,6,F,Fever From Plague,8,Plague Death,304 days,1,Child
+1900-11-03,4,F,Seizures From Plague,8,Plague Death,304 days,1,Child
+1900-11-03,60,F,Fever From Plague,3,Plague Death,304 days,1,Older Adult
+1900-11-03,12,M,Fever From Plague e Plague,3,Plague Death,304 days,1,Child
+1900-11-03,6,F,Seizures From Plague,6,Plague Death,304 days,1,Child
+1900-11-03,16,F,Fever From Plague e petecchie,8,Plague Death,304 days,1,Teen
+1900-11-03,26,M,Fever From Plague e un Sudden,9,Plague Death,304 days,1,Young Adult
+1900-11-03,8,M,Seizures From Plague,3,Plague Death,304 days,1,Child
+1900-11-03,7,F,Seizures From Plague,6,Plague Death,304 days,1,Child
+1900-11-03,40,F,Fever From Plague e Trauma ,8,Plague Death,304 days,1,Middle Age
+1900-11-03,3,M,Seizures From Plague,2,Plague Death,304 days,1,Child
+1900-11-03,0,F,Illness,0,Non-Plague Death,304 days,0,Infant
+1900-11-04,2,M,Seizures From Plague,6,Plague Death,305 days,1,Child
+1900-11-04,25,M,Fever From Plague,6,Plague Death,305 days,1,Young Adult
+1900-11-04,8,F,Plague,4,Plague Death,305 days,1,Child
+1900-11-04,20,F,Fever From Plague e Plague,6,Plague Death,305 days,1,Young Adult
+1900-11-04,18,F,Seizures From Plague,3,Plague Death,305 days,1,Teen
+1900-11-04,20,M,Fever From Plague,8,Plague Death,305 days,1,Young Adult
+1900-11-04,30,F,Childbirth,2,Non-Plague Death,305 days,0,Young Adult
+1900-11-04,10,F,Seizures From Plague,10,Plague Death,305 days,1,Child
+1900-11-04,0,M,Illness,1,Non-Plague Death,305 days,0,Infant
+1900-11-04,5,M,Fever From Plague e Trauma ,3,Plague Death,305 days,1,Child
+1900-11-04,52,M,Fever From Plague,3,Plague Death,305 days,1,Middle Age
+1900-11-04,3,F,Worms,4,Non-Plague Death,305 days,0,Child
+1900-11-04,8,F,Seizures From Plague,2,Plague Death,305 days,1,Child
+1900-11-05,9,F,Seizures From Plague,6,Plague Death,306 days,1,Child
+1900-11-05,56,F,Trauma ,13,Non-Plague Death,306 days,0,Middle Age
+1900-11-05,40,M,Unkown,Unkown,Non-Plague Death,306 days,0,Middle Age
+1900-11-05,8,F,Fever From Plague,5,Plague Death,306 days,1,Child
+1900-11-05,12,M,Trauma ,4,Non-Plague Death,306 days,0,Child
+1900-11-05,24,M,Most Likely Plague,4,Plague Death,306 days,1,Young Adult
+1900-11-05,7,F,Worms,4,Non-Plague Death,306 days,0,Child
+1900-11-05,2,F,Plaguepestilenziali,4,Plague Death,306 days,1,Child
+1900-11-05,16,F,Fever From Plague,2,Plague Death,306 days,1,Teen
+1900-11-05,50,F,Most Likely Plague,Unkown,Plague Death,306 days,1,Middle Age
+1900-11-05,0,M,Illness,1,Non-Plague Death,306 days,0,Infant
+1900-11-06,6,M,Seizures From Plague e Worms,3,Plague Death,307 days,1,Child
+1900-11-06,40,F,Fever From Plague,1,Plague Death,307 days,1,Middle Age
+1900-11-06,40,F,Fever From Plague,12,Plague Death,307 days,1,Middle Age
+1900-11-06,50,M,Fever From Plague e lepra(?),3,Plague Death,307 days,1,Middle Age
+1900-11-06,14,M,Fever From Plague,3,Plague Death,307 days,1,Teen
+1900-11-06,22,M,Fever From Plague,3,Plague Death,307 days,1,Young Adult
+1900-11-06,12,M,Seizures From Plague,3,Plague Death,307 days,1,Child
+1900-11-06,46,F,Fever From Plague,5,Plague Death,307 days,1,Middle Age
+1900-11-06,14,M,Fever From Plague e petecchie,1,Plague Death,307 days,1,Teen
+1900-11-06,56,M,Trauma ,6,Non-Plague Death,307 days,0,Middle Age
+1900-11-06,6,F,Seizures From Plague,6,Plague Death,307 days,1,Child
+1900-11-06,44,F,Fever From Plague,3,Plague Death,307 days,1,Middle Age
+1900-11-06,40,M,Fever From Plague,3,Plague Death,307 days,1,Middle Age
+1900-01-06,2,F,Seizures From Plague,3,Plague Death,3 days,1,Child
+1900-11-06,25,M,Fever From Plague e Trauma ,4,Plague Death,307 days,1,Young Adult
+1900-11-06,70,F,Fever From Plague,8,Plague Death,307 days,1,Older Adult
+1900-11-06,80,M,Fever From Plague,Unkown,Plague Death,307 days,1,Older Adult
+1900-11-06,0,M,Illness,1,Non-Plague Death,307 days,0,Infant
+1900-11-06,17,F,Fever From Plague,8,Plague Death,307 days,1,Teen
+1900-11-07,13,M,Fall From Height ,4,Non-Plague Death,308 days,0,Teen
+1900-11-07,7,F,Worms,12,Non-Plague Death,308 days,0,Child
+1900-11-07,5,M,Seizures From Plague,4,Plague Death,308 days,1,Child
+1900-11-07,33,F,Fever From Plague e Trauma ,3,Plague Death,308 days,1,Young Adult
+1900-11-07,24,M,Plague,5,Plague Death,308 days,1,Young Adult
+1900-11-07,17,M,Plaguepestilenziali,2,Plague Death,308 days,1,Teen
+1900-11-07,26,M,Fever From Plague Trauma  e Dysentery from Plague,4,Plague Death,308 days,1,Young Adult
+1900-11-07,40,M,Fever From Plague,3,Plague Death,308 days,1,Middle Age
+1900-11-07,18,M,Plaguepestilenziali,4,Plague Death,308 days,1,Teen
+1900-11-07,5,F,Worms,12,Non-Plague Death,308 days,0,Child
+1900-11-08,4,M,Seizures From Plague e Worms,5,Plague Death,309 days,1,Child
+1900-11-08,12,F,Seizures From Plague,1,Plague Death,309 days,1,Child
+1900-11-08,40,M,Most Likely Plague,9,Plague Death,309 days,1,Middle Age
+1900-11-08,40,F,Fever From Plague e Trauma ,15,Plague Death,309 days,1,Middle Age
+1900-11-08,0,F,Fever From Plague maligna,6,Plague Death,309 days,1,Infant
+1900-11-08,36,M,Most Likely Plague,7,Plague Death,309 days,1,Young Adult
+1900-11-08,2,F,Fever From Plague,60,Plague Death,309 days,1,Child
+1900-11-08,60,F,Fever From Plague,3,Plague Death,309 days,1,Older Adult
+1900-11-08,0,M,Unkown,Unkown,Non-Plague Death,309 days,0,Infant
+1900-11-08,50,F,Most Likely Plague,12,Plague Death,309 days,1,Middle Age
+1900-11-09,70,M,Fever From Plague e Plague,5,Plague Death,310 days,1,Older Adult
+1900-11-09,36,F,Fever From Plague maligna,6,Plague Death,310 days,1,Young Adult
+1900-11-09,26,F,Plague Sickness ,3,Plague Death,310 days,1,Young Adult
+1900-11-09,4,F,Worms,4,Non-Plague Death,310 days,0,Child
+1900-11-09,20,F,Plague Sickness ,3,Plague Death,310 days,1,Young Adult
+1900-11-10,34,M,Plague Sickness ,8,Plague Death,311 days,1,Young Adult
+1900-11-10,50,F,Gout,5,Non-Plague Death,311 days,0,Middle Age
+1900-11-10,59,F,Plague Sickness ,8,Plague Death,311 days,1,Middle Age
+1900-11-10,26,M,Plague Sickness ,5,Plague Death,311 days,1,Young Adult
+1900-11-10,81,M,Fever From Plague e Respiratory Infection,8,Plague Death,311 days,1,Older Adult
+1900-11-10,17,F,Plague Sickness ,6,Plague Death,311 days,1,Teen
+1900-11-10,56,F,Plague Sickness ,3,Plague Death,311 days,1,Middle Age
+1900-11-11,50,F,ipoplessia e Fever From Plague,10,Plague Death,312 days,1,Middle Age
+1900-11-11,30,M,Plague Sickness ,8,Plague Death,312 days,1,Young Adult
+1900-11-11,43,F,Plague Sickness ,5,Plague Death,312 days,1,Middle Age
+1900-11-11,45,M,Fever From Plague,4,Plague Death,312 days,1,Middle Age
+1900-11-11,34,M,Plague Sickness ,5,Plague Death,312 days,1,Young Adult
+1900-11-11,4,F,Fever From Plague e petecchie,4,Plague Death,312 days,1,Child
+1900-11-11,59,M,Plague Sickness ,7,Plague Death,312 days,1,Middle Age
+1900-11-11,14,F,Fever From Plague,14,Plague Death,312 days,1,Teen
+1900-11-11,70,F,Fever From Plague e Trauma ,3,Plague Death,312 days,1,Older Adult
+1900-11-11,20,M,Seizures From Plague e Plague,4,Plague Death,312 days,1,Young Adult
+1900-11-11,36,M,mal di Plague,8,Plague Death,312 days,1,Young Adult
+1900-11-11,60,F,Plague Sickness ,4,Plague Death,312 days,1,Older Adult
+1900-11-11,12,M,Fever From Plague,3,Plague Death,312 days,1,Child
+1900-11-12,12,M,Seizures From Plague e Worms,5,Plague Death,313 days,1,Child
+1900-11-12,32,M,Fever From Plague,17,Plague Death,313 days,1,Young Adult
+1900-11-12,15,F,Plague Sickness ,6,Plague Death,313 days,1,Teen
+1900-11-12,50,F,Most Likely Plague,10,Plague Death,313 days,1,Middle Age
+1900-11-12,0,M,Seizures From Plague,3,Plague Death,313 days,1,Infant
+1900-11-12,1,M,Fever From Plague,15,Plague Death,313 days,1,Child
+1900-11-12,42,M,Seizures From Plague,2,Plague Death,313 days,1,Middle Age
+1900-11-13,50,F,Plague Sickness ,4,Plague Death,314 days,1,Middle Age
+1900-11-13,32,M,Fever From Plague,8,Plague Death,314 days,1,Young Adult
+1900-11-13,18,M,Plague Sickness ,4,Plague Death,314 days,1,Teen
+1900-11-13,50,M,Most Likely Plague,5,Plague Death,314 days,1,Middle Age
+1900-11-13,36,M,Fever From Plague,4,Plague Death,314 days,1,Young Adult
+1900-11-13,44,M,Fever From Plague e Plague,10,Plague Death,314 days,1,Middle Age
+1900-11-13,34,F,Plaguepestilenziali,10,Plague Death,314 days,1,Young Adult
+1900-11-14,20,F,Worms and Plague,3,Plague Death,315 days,1,Young Adult
+1900-11-14,17,M,Fever From Plague,4,Plague Death,315 days,1,Teen
+1900-11-14,6,F,Plague Sickness ,4,Plague Death,315 days,1,Child
+1900-11-14,16,F,Worms,1,Non-Plague Death,315 days,0,Teen
+1900-11-14,12,F,Trauma ,4,Non-Plague Death,315 days,0,Child
+1900-11-14,20,F,Plague,3,Plague Death,315 days,1,Young Adult
+1900-11-14,18,M,Plague Sickness ,6,Plague Death,315 days,1,Teen
+1900-11-15,15,F,Headache,3,Non-Plague Death,316 days,0,Teen
+1900-11-15,3,M,Seizures From Plague e Worms,8,Plague Death,316 days,1,Child
+1900-11-15,8,M,Worms,3,Non-Plague Death,316 days,0,Child
+1900-11-15,26,M,Most Likely Plague,10,Plague Death,316 days,1,Young Adult
+1900-11-15,11,M,Seizures From Plague e Worms,8,Plague Death,316 days,1,Child
+1900-11-15,46,F,illegibile,8,Non-Plague Death,316 days,0,Middle Age
+1900-11-15,6,M,Worms,3,Non-Plague Death,316 days,0,Child
+1900-11-15,4,M,Worms,5,Non-Plague Death,316 days,0,Child
+1900-11-15,12,F,Fever From Plague,12,Plague Death,316 days,1,Child
+1900-11-15,5,M,Most Likely Plague,4,Plague Death,316 days,1,Child
+1900-11-16,30,M,Most Likely Plague,3,Plague Death,317 days,1,Young Adult
+1900-11-16,3,F,Seizer,3,Non-Plague Death,317 days,0,Child
+1900-11-16,1,M,Seizures From Plague,3,Plague Death,317 days,1,Child
+1900-11-16,20,M,Seizures From Plague,7,Plague Death,317 days,1,Young Adult
+1900-11-16,30,F,Most Likely Plague,4,Plague Death,317 days,1,Young Adult
+1900-11-16,50,F,Plague Sickness ,3,Plague Death,317 days,1,Middle Age
+1900-11-16,7,M,Worms,8,Non-Plague Death,317 days,0,Child
+1900-11-16,36,F,Plague,15,Plague Death,317 days,1,Young Adult
+1900-11-16,6,M,Worms,4,Non-Plague Death,317 days,0,Child
+1900-11-16,0,F,Fever From Plague,4,Plague Death,317 days,1,Infant
+1900-11-16,7,F,Plague Sickness ,4,Plague Death,317 days,1,Child
+1900-11-17,70,M,Respiratory Infection,16,Non-Plague Death,318 days,0,Older Adult
+1900-11-17,40,M,Plague Sickness ,4,Plague Death,318 days,1,Middle Age
+1900-11-17,12,F,Plague Sickness ,2,Plague Death,318 days,1,Child
+1900-11-17,2,F,Fever From Plague,4,Plague Death,318 days,1,Child
+1900-11-17,11,F,Worms,1,Non-Plague Death,318 days,0,Child
+1900-11-18,2,F,Fever From Plague e ponta,9,Plague Death,319 days,1,Child
+1900-11-18,10,M,Headache,10,Non-Plague Death,319 days,0,Child
+1900-11-18,0,M,Illness,1,Non-Plague Death,319 days,0,Infant
+1900-11-18,80,M,Fever From Plague,3,Plague Death,319 days,1,Older Adult
+1900-11-18,30,M,Trauma ,4,Non-Plague Death,319 days,0,Young Adult
+1900-11-18,14,M,Plague Sickness ,8,Plague Death,319 days,1,Teen
+1900-11-18,6,F,Plague Sickness ,8,Plague Death,319 days,1,Child
+1900-11-18,50,M,Fever From Plague,3,Plague Death,319 days,1,Middle Age
+1900-11-18,67,F,Respiratory Infection,5,Non-Plague Death,319 days,0,Older Adult
+1900-11-18,30,F,Plague Sickness ,3,Plague Death,319 days,1,Young Adult
+1900-11-18,32,M,Most Likely Plague,3,Plague Death,319 days,1,Young Adult
+1900-11-18,100,F,Fever From Plague e Plague,180,Plague Death,319 days,1,Older Adult
+1900-11-18,5,M,Smallpox,12,Non-Plague Death,319 days,0,Child
+1900-11-18,36,M,Plague Sickness ,4,Plague Death,319 days,1,Young Adult
+1900-11-19,11,M,Plague,3,Plague Death,320 days,1,Child
+1900-11-19,16,M,Plague Sickness ,8,Plague Death,320 days,1,Teen
+1900-11-19,28,F,Childbirth,1,Non-Plague Death,320 days,0,Young Adult
+1900-11-19,18,M,Plague Sickness ,2,Plague Death,320 days,1,Teen
+1900-11-19,22,F,Fever From Plague e ponta,8,Plague Death,320 days,1,Young Adult
+1900-11-19,90,M,Fever From Plague continua,4,Plague Death,320 days,1,Older Adult
+1900-11-19,35,M,Plague Sickness ,6,Plague Death,320 days,1,Young Adult
+1900-11-19,24,M,Plague Sickness ,2,Plague Death,320 days,1,Young Adult
+1900-11-19,26,F,Plague,8,Plague Death,320 days,1,Young Adult
+1900-11-19,22,F,Most Likely Plague,5,Plague Death,320 days,1,Young Adult
+1900-11-19,18,M,Plague Sickness ,Unkown,Plague Death,320 days,1,Teen
+1900-11-19,11,F,Most Likely Plague,5,Plague Death,320 days,1,Child
+1900-11-19,18,M,Most Likely Plague,Unkown,Plague Death,320 days,1,Teen
+1900-11-19,6,M,Worms,3,Non-Plague Death,320 days,0,Child
+1900-11-19,36,M,Most Likely Plague,6,Plague Death,320 days,1,Young Adult
+1900-11-20,43,F,Plague Sickness ,10,Plague Death,321 days,1,Middle Age
+1900-11-20,18,F,Plague Sickness ,Unkown,Plague Death,321 days,1,Teen
+1900-11-20,12,F,Fever From Plague e petecchie,4,Plague Death,321 days,1,Child
+1900-11-20,6,F,Seizures From Plague,5,Plague Death,321 days,1,Child
+1900-11-20,38,F,Childbirth e Trauma ,6,Non-Plague Death,321 days,0,Young Adult
+1900-11-20,7,F,Plague Sickness ,3,Plague Death,321 days,1,Child
+1900-11-20,27,M,Plague Sickness ,3,Plague Death,321 days,1,Young Adult
+1900-11-20,7,M,Plague Sickness ,11,Plague Death,321 days,1,Child
+1900-11-20,2,F,Seizures From Plague e Worms,3,Plague Death,321 days,1,Child
+1900-11-20,40,M,Plague,11,Plague Death,321 days,1,Middle Age
+1900-11-20,32,M,Fever From Plague maligna,6,Plague Death,321 days,1,Young Adult
+1900-11-21,22,F,Plague,5,Plague Death,322 days,1,Young Adult
+1900-11-21,7,M,Worms,8,Non-Plague Death,322 days,0,Child
+1900-11-21,2,M,Worms,4,Non-Plague Death,322 days,0,Child
+1900-11-21,13,F,Seizures From Plague,5,Plague Death,322 days,1,Teen
+1900-11-21,6,M,Seizures From Plague,5,Plague Death,322 days,1,Child
+1900-11-21,12,F,Seizures From Plague,4,Plague Death,322 days,1,Child
+1900-11-21,9,M,Seizures From Plague,4,Plague Death,322 days,1,Child
+1900-11-21,4,M,Fever From Plague,120,Plague Death,322 days,1,Child
+1900-11-21,21,M,Most Likely Plague,6,Plague Death,322 days,1,Young Adult
+1900-11-21,50,F,Most Likely Plague,6,Plague Death,322 days,1,Middle Age
+1900-11-21,17,F,Fever From Plague e petecchie,4,Plague Death,322 days,1,Teen
+1900-11-21,8,M,Plague Sickness ,6,Plague Death,322 days,1,Child
+1900-11-21,40,F,Fever From Plague maligna,9,Plague Death,322 days,1,Middle Age
+1900-11-21,7,M,Plague Sickness ,1,Plague Death,322 days,1,Child
+1900-11-21,3,F,Fever From Plague,20,Plague Death,322 days,1,Child
+1900-11-21,40,M,Seizures From Plague,4,Plague Death,322 days,1,Middle Age
+1900-11-21,68,M,Fever From Plague maligna e Most Likely Plague,4,Plague Death,322 days,1,Older Adult
+1900-11-21,27,F,Trauma ,5,Non-Plague Death,322 days,0,Young Adult
+1900-11-21,17,M,Plague Sickness ,3,Plague Death,322 days,1,Teen
+1900-11-22,12,F,Fever From Plague,6,Plague Death,323 days,1,Child
+1900-11-22,13,M,Plague Sickness ,10,Plague Death,323 days,1,Teen
+1900-11-22,12,F,Seizures From Plague,3,Plague Death,323 days,1,Child
+1900-11-22,21,M,Seizures From Plague,6,Plague Death,323 days,1,Young Adult
+1900-11-22,5,M,Seizures From Plague,6,Plague Death,323 days,1,Child
+1900-11-22,14,M,Plague,6,Plague Death,323 days,1,Teen
+1900-11-22,28,F,Plague Sickness ,4,Plague Death,323 days,1,Young Adult
+1900-11-22,36,F,Plaguee un Sudden,8,Plague Death,323 days,1,Young Adult
+1900-11-22,0,F,Seizures From Plague,1,Plague Death,323 days,1,Infant
+1900-11-22,46,M,Plague Sickness ,3,Plague Death,323 days,1,Middle Age
+1900-11-22,36,F,Most Likely Plague,4,Plague Death,323 days,1,Young Adult
+1900-11-22,0,F,Plague Sickness ,5,Plague Death,323 days,1,Infant
+1900-11-22,13,M,Coal,6,Non-Plague Death,323 days,0,Teen
+1900-11-23,25,M,Plague Sickness ,5,Plague Death,324 days,1,Young Adult
+1900-11-23,22,F,Plague Sickness ,5,Plague Death,324 days,1,Young Adult
+1900-11-23,70,F,Bubonic Plague,8,Plague Death,324 days,1,Older Adult
+1900-11-23,7,M,Seizures From Plague e Worms,2,Plague Death,324 days,1,Child
+1900-11-23,13,F,mal Plague,6,Plague Death,324 days,1,Teen
+1900-11-23,0,F,Seizures From Plague e Worms,7,Plague Death,324 days,1,Infant
+1900-11-23,38,M,Plague Sickness ,5,Plague Death,324 days,1,Young Adult
+1900-11-23,44,M,Plague Sickness ,4,Plague Death,324 days,1,Middle Age
+1900-11-23,33,F,Plague Sickness ,5,Plague Death,324 days,1,Young Adult
+1900-11-23,3,M,Worms,4,Non-Plague Death,324 days,0,Child
+1900-11-23,40,F,Most Likely Plague,8,Plague Death,324 days,1,Middle Age
+1900-11-23,6,M,Worms,7,Non-Plague Death,324 days,0,Child
+1900-11-23,84,M,Most Likely Plague,4,Plague Death,324 days,1,Older Adult
+1900-11-23,46,M,Fever From Plague maligna,7,Plague Death,324 days,1,Middle Age
+1900-11-24,3,M,Plague,5,Plague Death,325 days,1,Child
+1900-11-24,11,F,Seizures From Plague,8,Plague Death,325 days,1,Child
+1900-11-24,4,M,Seizures From Plague,4,Plague Death,325 days,1,Child
+1900-11-24,11,M,Plague,3,Plague Death,325 days,1,Child
+1900-11-24,9,M,Plague,5,Plague Death,325 days,1,Child
+1900-11-24,16,F,Plague,3,Plague Death,325 days,1,Teen
+1900-11-24,19,M,Plague,2,Plague Death,325 days,1,Teen
+1900-11-25,5,F,Worms,3,Non-Plague Death,326 days,0,Child
+1900-11-25,4,F,Sudden,6,Non-Plague Death,326 days,0,Child
+1900-11-25,15,F,Plague,8,Plague Death,326 days,1,Teen
+1900-11-25,14,F,Plague Sickness ,5,Plague Death,326 days,1,Teen
+1900-11-25,12,F,Seizures From Plague,5,Plague Death,326 days,1,Child
+1900-11-25,8,F,Seizures From Plague,6,Plague Death,326 days,1,Child
+1900-11-25,28,M,Most Likely Plague,15,Plague Death,326 days,1,Young Adult
+1900-11-25,44,F,Most Likely Plague,9,Plague Death,326 days,1,Middle Age
+1900-11-25,10,F,Plague Sickness ,6,Plague Death,326 days,1,Child
+1900-11-26,30,F,Fever From Plague e una doglia in un fianco,2,Plague Death,327 days,1,Young Adult
+1900-11-26,13,M,Fever From Plague e Worms,5,Plague Death,327 days,1,Teen
+1900-11-26,11,M,Most Likely Plague,3,Plague Death,327 days,1,Child
+1900-11-26,8,F,Seizures From Plague,3,Plague Death,327 days,1,Child
+1900-11-26,11,F,Fever From Plague,6,Plague Death,327 days,1,Child
+1900-11-26,14,M,mal Plague,5,Plague Death,327 days,1,Teen
+1900-11-26,20,F,Most Likely Plague,5,Plague Death,327 days,1,Young Adult
+1900-11-26,40,M,Fever From Plague,4,Plague Death,327 days,1,Middle Age
+1900-11-26,70,F,Plague,4,Plague Death,327 days,1,Older Adult
+1900-11-26,30,F,Most Likely Plague,6,Plague Death,327 days,1,Young Adult
+1900-11-27,30,M,Plague Sickness ,5,Plague Death,328 days,1,Young Adult
+1900-11-27,18,M,Plague Sickness ,3,Plague Death,328 days,1,Teen
+1900-11-27,18,F,Childbirth,1,Non-Plague Death,328 days,0,Teen
+1900-11-27,0,M,Illness,1,Non-Plague Death,328 days,0,Infant
+1900-11-27,12,M,Most Likely Plague,3,Plague Death,328 days,1,Child
+1900-11-27,0,M,Seizures From Plague,6,Plague Death,328 days,1,Infant
+1900-11-27,2,F,Fever From Plague,5,Plague Death,328 days,1,Child
+1900-11-27,42,F,Most Likely Plague,10,Plague Death,328 days,1,Middle Age
+1900-11-27,2,M,Seizures From Plague,5,Plague Death,328 days,1,Child
+1900-11-27,2,M,Worms,10,Non-Plague Death,328 days,0,Child
+1900-11-27,86,F,Plague,5,Plague Death,328 days,1,Older Adult
+1900-11-27,22,M,Fall From Height ,0,Non-Plague Death,328 days,0,Young Adult
+1900-11-28,16,M,Fever From Plague e una postiema,6,Plague Death,329 days,1,Teen
+1900-11-28,8,F,Most Likely Plague,3,Plague Death,329 days,1,Child
+1900-11-28,44,F,Headache,3,Non-Plague Death,329 days,0,Middle Age
+1900-11-28,7,F,Worms,12,Non-Plague Death,329 days,0,Child
+1900-11-28,3,F,Seizures From Plague,16,Plague Death,329 days,1,Child
+1900-11-28,44,F,Fever From Plague,6,Plague Death,329 days,1,Middle Age
+1900-11-28,4,M,Plague,3,Plague Death,329 days,1,Child
+1900-11-28,16,F,Most Likely Plague,4,Plague Death,329 days,1,Teen
+1900-11-28,4,M,Most Likely Plague,3,Plague Death,329 days,1,Child
+1900-11-28,22,F,Seizures From Plague,4,Plague Death,329 days,1,Young Adult
+1900-11-28,44,F,doglia e Seizures From Plague,4,Plague Death,329 days,1,Middle Age
+1900-11-28,24,M,Plague Sickness ,4,Plague Death,329 days,1,Young Adult
+1900-11-29,5,F,Plague,5,Plague Death,330 days,1,Child
+1900-11-29,5,F,Worms e Seizures From Plague,6,Plague Death,330 days,1,Child
+1900-11-29,62,M,Plague,5,Plague Death,330 days,1,Older Adult
+1900-11-29,25,F,Most Likely Plague,8,Plague Death,330 days,1,Young Adult
+1900-11-29,16,M,Seizures From Plague,4,Plague Death,330 days,1,Teen
+1900-11-29,0,M,Seizures From Plague,8,Plague Death,330 days,1,Infant
+1900-11-29,58,F,Most Likely Plague,6,Plague Death,330 days,1,Middle Age
+1900-11-29,18,F,Plague,8,Plague Death,330 days,1,Teen
+1900-11-29,3,M,Worms e Seizures From Plague,5,Plague Death,330 days,1,Child
+1900-11-29,18,M,Fever From Plague e Plague,7,Plague Death,330 days,1,Teen
+1900-11-29,50,F,Most Likely Plague,2,Plague Death,330 days,1,Middle Age
+1900-11-29,15,F,Most Likely Plague,4,Plague Death,330 days,1,Teen
+1900-11-29,4,M,Worms,5,Non-Plague Death,330 days,0,Child
+1900-11-29,5,M,Most Likely Plague,3,Plague Death,330 days,1,Child
+1900-11-30,50,M,mal Plague,5,Plague Death,331 days,1,Middle Age
+1900-11-30,50,F,Plague Sickness ,3,Plague Death,331 days,1,Middle Age
+1900-11-30,30,M,Most Likely Plague,3,Plague Death,331 days,1,Young Adult
+1900-11-30,9,M,Worms,6,Non-Plague Death,331 days,0,Child
+1900-11-30,4,M,Most Likely Plague,5,Plague Death,331 days,1,Child
+1900-11-30,7,M,Worms e Seizures From Plague,5,Plague Death,331 days,1,Child
+1900-11-30,3,M,Seizures From Plague,7,Plague Death,331 days,1,Child
+1900-11-30,9,F,Worms,4,Non-Plague Death,331 days,0,Child
+1900-11-30,50,F,Most Likely Plague,8,Plague Death,331 days,1,Middle Age
+1900-11-30,3,M,Worms,2,Non-Plague Death,331 days,0,Child
+1900-11-30,4,M,Worms,2,Non-Plague Death,331 days,0,Child
+1900-11-30,0,Unkown,Unkown,Unkown,Non-Plague Death,331 days,0,Infant
+1900-11-30,5,M,Most Likely Plague,2,Plague Death,331 days,1,Child
+1900-11-30,39,F,Fever From Plague,6,Plague Death,331 days,1,Young Adult
+1900-11-30,11,M,Most Likely Plague,6,Plague Death,331 days,1,Child
+1900-11-30,4,F,Worms,8,Non-Plague Death,331 days,0,Child
+1900-11-30,4,F,Plague,6,Plague Death,331 days,1,Child
+1900-11-30,0,F,Unkown,Unkown,Non-Plague Death,331 days,0,Infant
+1900-12-01,50,M,Plague Sickness ,2,Plague Death,332 days,1,Middle Age
+1900-12-01,12,F,Most Likely Plague,2,Plague Death,332 days,1,Child
+1900-12-01,10,M,Plague,2,Plague Death,332 days,1,Child
+1900-12-01,50,M,Fever From Plague,8,Plague Death,332 days,1,Middle Age
+1900-12-01,6,M,Worms,6,Non-Plague Death,332 days,0,Child
+1900-12-01,18,M,Plague,4,Plague Death,332 days,1,Teen
+1900-12-01,30,F,Most Likely Plague,4,Plague Death,332 days,1,Young Adult
+1900-12-01,46,F,Most Likely Plague,8,Plague Death,332 days,1,Middle Age
+1900-12-01,3,F,Most Likely Plague,3,Plague Death,332 days,1,Child
+1900-12-01,54,M,Most Likely Plague,8,Plague Death,332 days,1,Middle Age
+1900-12-01,34,F,Most Likely Plague,17,Plague Death,332 days,1,Young Adult
+1900-12-01,21,F,Most Likely Plague,4,Plague Death,332 days,1,Young Adult
+1900-12-02,4,F,Seizures From Plague,7,Plague Death,333 days,1,Child
+1900-12-02,60,M,Fever From Plague,8,Plague Death,333 days,1,Older Adult
+1900-12-02,14,M,Most Likely Plague,6,Plague Death,333 days,1,Teen
+1900-12-02,49,F,Childbirth,3,Non-Plague Death,333 days,0,Middle Age
+1900-12-02,10,M,Most Likely Plague,4,Plague Death,333 days,1,Child
+1900-12-02,8,F,Most Likely Plague,3,Plague Death,333 days,1,Child
+1900-12-02,2,F,Most Likely Plague,2,Plague Death,333 days,1,Child
+1900-12-02,13,M,Most Likely Plague,2,Plague Death,333 days,1,Teen
+1900-12-02,34,M,Most Likely Plague,3,Plague Death,333 days,1,Young Adult
+1900-12-02,6,M,Worms,5,Non-Plague Death,333 days,0,Child
+1900-12-02,50,M,Most Likely Plague,5,Plague Death,333 days,1,Middle Age
+1900-12-03,56,M,Most Likely Plague,6,Plague Death,334 days,1,Middle Age
+1900-12-03,15,M,Plague,15,Plague Death,334 days,1,Teen
+1900-12-03,18,M,Most Likely Plague,6,Plague Death,334 days,1,Teen
+1900-12-03,0,M,Illness,0,Non-Plague Death,334 days,0,Infant
+1900-12-03,14,F,Most Likely Plague,5,Plague Death,334 days,1,Teen
+1900-12-03,35,M,Most Likely Plague,4,Plague Death,334 days,1,Young Adult
+1900-12-03,13,M,Plague,4,Plague Death,334 days,1,Teen
+1900-12-03,80,F,Plague,6,Plague Death,334 days,1,Older Adult
+1900-12-03,14,F,Most Likely Plague,4,Plague Death,334 days,1,Teen
+1900-12-03,6,M,Plaguepestilenziali,12,Plague Death,334 days,1,Child
+1900-12-03,11,F,Fever From Plague e suspetto,3,Plague Death,334 days,1,Child
+1900-12-03,40,F,Plaguepestilenziali,11,Plague Death,334 days,1,Middle Age
+1900-12-03,80,M,Most Likely Plague,4,Plague Death,334 days,1,Older Adult
+1900-12-03,3,F,Most Likely Plague,4,Plague Death,334 days,1,Child
+1900-12-03,30,M,Most Likely Plague,4,Plague Death,334 days,1,Young Adult
+1900-12-04,18,F,Seizures From Plague,3,Plague Death,335 days,1,Teen
+1900-12-04,70,M,Most Likely Plague,2,Plague Death,335 days,1,Older Adult
+1900-12-04,24,F,Plague,8,Plague Death,335 days,1,Young Adult
+1900-12-04,10,F,Most Likely Plague,8,Plague Death,335 days,1,Child
+1900-12-04,32,F,Most Likely Plague,5,Plague Death,335 days,1,Young Adult
+1900-12-04,60,M,Most Likely Plague,4,Plague Death,335 days,1,Older Adult
+1900-12-04,7,F,Worms,4,Non-Plague Death,335 days,0,Child
+1900-12-04,5,M,Seizures From Plague e Worms,60,Plague Death,335 days,1,Child
+1900-12-04,36,M,Most Likely Plague,8,Plague Death,335 days,1,Young Adult
+1900-12-04,13,F,Most Likely Plague,2,Plague Death,335 days,1,Teen
+1900-12-04,0,M,Unkown,Unkown,Non-Plague Death,335 days,0,Infant
+1900-12-04,26,M,Most Likely Plague,5,Plague Death,335 days,1,Young Adult
+1900-12-04,14,M,Most Likely Plague,2,Plague Death,335 days,1,Teen
+1900-12-04,54,F,Most Likely Plague,6,Plague Death,335 days,1,Middle Age
+1900-12-04,0,M,Worms,Unkown,Non-Plague Death,335 days,0,Infant
+1900-12-05,70,F,Most Likely Plague,5,Plague Death,336 days,1,Older Adult
+1900-12-05,82,F,Most Likely Plague,16,Plague Death,336 days,1,Older Adult
+1900-12-05,21,F,Most Likely Plague,6,Plague Death,336 days,1,Young Adult
+1900-12-05,3,F,Most Likely Plague,4,Plague Death,336 days,1,Child
+1900-12-05,55,F,Most Likely Plague,5,Plague Death,336 days,1,Middle Age
+1900-12-05,16,F,Unkown,2,Non-Plague Death,336 days,0,Teen
+1900-12-05,28,F,Childbirth,2,Non-Plague Death,336 days,0,Young Adult
+1900-12-05,0,M,Illness,1,Non-Plague Death,336 days,0,Infant
+1900-12-05,70,M,Most Likely Plague,3,Plague Death,336 days,1,Older Adult
+1900-12-05,0,M,Most Likely Plague,20,Plague Death,336 days,1,Infant
+1900-12-05,3,M,Seizures From Plague,10,Plague Death,336 days,1,Child
+1900-12-05,23,F,Most Likely Plague,5,Plague Death,336 days,1,Young Adult
+1900-12-06,30,F,Fever From Plague,9,Plague Death,337 days,1,Young Adult
+1900-12-06,10,M,Most Likely Plague,4,Plague Death,337 days,1,Child
+1900-12-06,2,M,Most Likely Plague,5,Plague Death,337 days,1,Child
+1900-12-06,1,M,Seizures From Plague,10,Plague Death,337 days,1,Child
+1900-12-06,3,M,Seizures From Plague e Worms,4,Plague Death,337 days,1,Child
+1900-12-07,36,M,Most Likely Plague,5,Plague Death,338 days,1,Young Adult
+1900-12-07,18,F,Plague Sickness ,8,Plague Death,338 days,1,Teen
+1900-12-07,1,F,Seizures From Plague e Worms,1,Plague Death,338 days,1,Child
+1900-12-07,22,M,Fall,5,Non-Plague Death,338 days,0,Young Adult
+1900-12-07,3,M,Seizures From Plague,5,Plague Death,338 days,1,Child
+1900-12-07,50,F,Plague Sickness ,5,Plague Death,338 days,1,Middle Age
+1900-12-07,76,F,Plague Sickness ,5,Plague Death,338 days,1,Older Adult
+1900-12-07,1,M,Seizures From Plague,7,Plague Death,338 days,1,Child
+1900-12-07,10,F,Seizures From Plague,9,Plague Death,338 days,1,Child
+1900-12-07,8,F,Most Likely Plague,6,Plague Death,338 days,1,Child
+1900-12-07,38,M,Dysentery from Plague,4,Plague Death,338 days,1,Young Adult
+1900-12-08,34,M,Most Likely Plague,6,Plague Death,339 days,1,Young Adult
+1900-12-08,46,M,Most Likely Plague,5,Plague Death,339 days,1,Middle Age
+1900-12-08,6,M,Worms,2,Non-Plague Death,339 days,0,Child
+1900-12-08,17,F,Seizures From Plague,12,Plague Death,339 days,1,Teen
+1900-12-08,50,M,Most Likely Plague,8,Plague Death,339 days,1,Middle Age
+1900-12-08,4,M,Most Likely Plague,5,Plague Death,339 days,1,Child
+1900-12-08,2,M,Worms e Seizures From Plague,4,Plague Death,339 days,1,Child
+1900-12-08,44,F,Most Likely Plague,5,Plague Death,339 days,1,Middle Age
+1900-12-08,26,M,Most Likely Plague,6,Plague Death,339 days,1,Young Adult
+1900-12-08,36,F,Childbirth,3,Non-Plague Death,339 days,0,Young Adult
+1900-12-09,6,F,Worms,2,Non-Plague Death,340 days,0,Child
+1900-12-09,0,F,Illness,1,Non-Plague Death,340 days,0,Infant
+1900-12-09,18,M,Most Likely Plague,6,Plague Death,340 days,1,Teen
+1900-12-09,18,F,Fever From Plague e Plague,8,Plague Death,340 days,1,Teen
+1900-12-09,32,F,Fever From Plague,13,Plague Death,340 days,1,Young Adult
+1900-12-09,30,M,Most Likely Plague,6,Plague Death,340 days,1,Young Adult
+1900-12-09,16,F,Fever From Plague e Seizures From Plague,7,Plague Death,340 days,1,Teen
+1900-12-09,40,M,Plague,4,Plague Death,340 days,1,Middle Age
+1900-12-09,0,F,Seizures From Plague,2,Plague Death,340 days,1,Infant
+1900-12-09,6,F,Worms,3,Non-Plague Death,340 days,0,Child
+1900-12-09,3,F,Most Likely Plague,3,Plague Death,340 days,1,Child
+1900-12-09,15,F,Plague,3,Plague Death,340 days,1,Teen
+1900-12-09,60,F,Seizures From Plague,2,Plague Death,340 days,1,Older Adult
+1900-12-09,40,F,Most Likely Plague,6,Plague Death,340 days,1,Middle Age
+1900-12-10,42,F,Fever From Plague maligna,10,Plague Death,341 days,1,Middle Age
+1900-12-10,10,F,Unkown,Unkown,Non-Plague Death,341 days,0,Child
+1900-12-10,16,F,Fever From Plague e Seizures From Plague,5,Plague Death,341 days,1,Teen
+1900-12-10,28,F,Most Likely Plague,4,Plague Death,341 days,1,Young Adult
+1900-12-10,14,F,Plague,4,Plague Death,341 days,1,Teen
+1900-12-10,38,M,Plague Sickness ,6,Plague Death,341 days,1,Young Adult
+1900-12-10,43,F,Plague,5,Plague Death,341 days,1,Middle Age
+1900-12-10,30,F,Childbirth,4,Non-Plague Death,341 days,0,Young Adult
+1900-12-10,0,F,Illness,1,Non-Plague Death,341 days,0,Infant
+1900-12-10,0,F,Unkown,Unkown,Non-Plague Death,341 days,0,Infant
+1900-12-10,22,F,Childbirth,5,Non-Plague Death,341 days,0,Young Adult
+1900-12-10,25,F,Most Likely Plague,7,Plague Death,341 days,1,Young Adult
+1900-12-10,46,F,Most Likely Plague,5,Plague Death,341 days,1,Middle Age
+1900-12-11,5,F,Most Likely Plague,4,Plague Death,342 days,1,Child
+1900-12-11,1,F,Seizures From Plague,6,Plague Death,342 days,1,Child
+1900-12-11,7,M,Seizures From Plague e Worms,7,Plague Death,342 days,1,Child
+1900-12-11,40,F,Most Likely Plague,4,Plague Death,342 days,1,Middle Age
+1900-12-11,24,F,Fever From Plague,9,Plague Death,342 days,1,Young Adult
+1900-12-11,5,F,Most Likely Plague,4,Plague Death,342 days,1,Child
+1900-12-12,5,F,Seizures From Plague,5,Plague Death,343 days,1,Child
+1900-12-12,23,M,Plague,4,Plague Death,343 days,1,Young Adult
+1900-12-12,3,F,Most Likely Plague,Unkown,Plague Death,343 days,1,Child
+1900-12-12,2,F,Seizures From Plague,10,Plague Death,343 days,1,Child
+1900-12-12,19,M,Most Likely Plague,4,Plague Death,343 days,1,Teen
+1900-12-13,9,F,Most Likely Plague,6,Plague Death,344 days,1,Child
+1900-12-13,10,F,Most Likely Plague,6,Plague Death,344 days,1,Child
+1900-12-13,0,M,Seizures From Plague,5,Plague Death,344 days,1,Infant
+1900-12-13,70,M,Most Likely Plague,6,Plague Death,344 days,1,Older Adult
+1900-12-13,9,M,Most Likely Plague,6,Plague Death,344 days,1,Child
+1900-12-13,13,F,Most Likely Plague,5,Plague Death,344 days,1,Teen
+1900-12-13,18,F,Plague,3,Plague Death,344 days,1,Teen
+1900-12-13,15,M,Most Likely Plague,5,Plague Death,344 days,1,Teen
+1900-12-14,14,F,Seizures From Plague,8,Plague Death,345 days,1,Teen
+1900-12-14,14,F,Most Likely Plague,5,Plague Death,345 days,1,Teen
+1900-12-14,28,F,Fever From Plague,90,Plague Death,345 days,1,Young Adult
+1900-12-14,30,F,Most Likely Plague,4,Plague Death,345 days,1,Young Adult
+1900-12-14,10,F,Most Likely Plague,6,Plague Death,345 days,1,Child
+1900-12-14,9,M,Fever From Plague,4,Plague Death,345 days,1,Child
+1900-12-14,23,F,Plague,2,Plague Death,345 days,1,Young Adult
+1900-12-15,13,F,Fever From Plague e Plague,5,Plague Death,346 days,1,Teen
+1900-12-15,25,F,Most Likely Plague,5,Plague Death,346 days,1,Young Adult
+1900-12-15,1,F,Most Likely Plague,Unkown,Plague Death,346 days,1,Child
+1900-12-15,0,F,Seizures From Plague,6,Plague Death,346 days,1,Infant
+1900-12-15,20,M,Most Likely Plague,3,Plague Death,346 days,1,Young Adult
+1900-12-15,30,M,Most Likely Plague,5,Plague Death,346 days,1,Young Adult
+1900-12-15,62,M,Most Likely Plague,3,Plague Death,346 days,1,Older Adult
+1900-12-16,18,F,Plague,7,Plague Death,347 days,1,Teen
+1900-12-16,8,M,Fever From Plague,4,Plague Death,347 days,1,Child
+1900-12-16,60,F,Respiratory Infection,7,Non-Plague Death,347 days,0,Older Adult
+1900-12-16,5,M,Seizures From Plague,2,Plague Death,347 days,1,Child
+1900-12-17,3,F,Seizures From Plague e Worms,12,Plague Death,348 days,1,Child
+1900-12-17,33,M,Most Likely Plague,2,Plague Death,348 days,1,Young Adult
+1900-12-17,4,M,Fever From Plague,90,Plague Death,348 days,1,Child
+1900-12-17,10,M,Plague,6,Plague Death,348 days,1,Child
+1900-12-17,6,F,Most Likely Plague,4,Plague Death,348 days,1,Child
+1900-12-17,12,F,Most Likely Plague,6,Plague Death,348 days,1,Child
+1900-12-17,10,F,Fever From Plague maligna,8,Plague Death,348 days,1,Child
+1900-12-18,36,F,Fever From Plague,4,Plague Death,349 days,1,Young Adult
+1900-12-18,3,F,Most Likely Plague,3,Plague Death,349 days,1,Child
+1900-12-18,47,M,Most Likely Plague,4,Plague Death,349 days,1,Middle Age
+1900-12-18,3,F,Most Likely Plague,3,Plague Death,349 days,1,Child
+1900-12-18,5,F,Most Likely Plague,5,Plague Death,349 days,1,Child
+1900-12-18,55,F,Most Likely Plague,2,Plague Death,349 days,1,Middle Age
+1900-12-18,14,F,Most Likely Plague,6,Plague Death,349 days,1,Teen
+1900-12-18,10,F,Fever From Plague e Seizures From Plague,4,Plague Death,349 days,1,Child
+1900-12-18,80,F,Fever From Plague e Plague,15,Plague Death,349 days,1,Older Adult
+1900-12-19,30,M,Most Likely Plague,5,Plague Death,350 days,1,Young Adult
+1900-12-19,8,M,Most Likely Plague,4,Plague Death,350 days,1,Child
+1900-12-19,30,F,Most Likely Plague,8,Plague Death,350 days,1,Young Adult
+1900-12-19,3,F,Most Likely Plague,8,Plague Death,350 days,1,Child
+1900-12-19,54,M,Most Likely Plague,8,Plague Death,350 days,1,Middle Age
+1900-12-19,34,F,Most Likely Plague,12,Plague Death,350 days,1,Young Adult
+1900-12-19,12,F,Most Likely Plague,8,Plague Death,350 days,1,Child
+1900-12-19,3,M,Most Likely Plague,8,Plague Death,350 days,1,Child
+1900-12-20,5,F,Seizures From Plague,10,Plague Death,351 days,1,Child
+1900-12-20,36,F,Most Likely Plague,6,Plague Death,351 days,1,Young Adult
+1900-12-20,75,M,Most Likely Plague,7,Plague Death,351 days,1,Older Adult
+1900-12-20,70,F,Most Likely Plague,5,Plague Death,351 days,1,Older Adult
+1900-12-20,23,F,Most Likely Plague,20,Plague Death,351 days,1,Young Adult
+1900-12-20,20,M,Most Likely Plague,5,Plague Death,351 days,1,Young Adult
+1900-12-20,44,M,Most Likely Plague,4,Plague Death,351 days,1,Middle Age
+1900-12-21,9,M,Worms e Seizures From Plague,15,Plague Death,352 days,1,Child
+1900-12-21,5,M,Seizures From Plague,3,Plague Death,352 days,1,Child
+1900-12-21,14,M,Most Likely Plague,6,Plague Death,352 days,1,Teen
+1900-12-21,44,F,Most Likely Plague,2,Plague Death,352 days,1,Middle Age
+1900-12-21,19,M,Most Likely Plague,3,Plague Death,352 days,1,Teen
+1900-12-21,26,M,Most Likely Plague,6,Plague Death,352 days,1,Young Adult
+1900-12-22,26,M,Most Likely Plague,12,Plague Death,353 days,1,Young Adult
+1900-12-22,60,M,Most Likely Plague,3,Plague Death,353 days,1,Older Adult
+1900-12-22,26,F,Most Likely Plague,8,Plague Death,353 days,1,Young Adult
+1900-12-23,56,F,Most Likely Plague,8,Plague Death,354 days,1,Middle Age
+1900-12-23,17,F,Childbirth,4,Non-Plague Death,354 days,0,Teen
+1900-12-23,7,M,Most Likely Plague,3,Plague Death,354 days,1,Child
+1900-12-23,0,F,Unkown,Unkown,Non-Plague Death,354 days,0,Infant
+1900-12-23,7,M,Worms,6,Non-Plague Death,354 days,0,Child
+1900-12-25,6,M,Worms e Seizures From Plague,9,Plague Death,356 days,1,Child
+1900-12-25,14,F,Fever From Plague,4,Plague Death,356 days,1,Teen
+1900-12-25,6,M,Headache,6,Non-Plague Death,356 days,0,Child
+1900-12-25,5,M,Fever From Plague,6,Plague Death,356 days,1,Child
+1900-12-26,70,F,Plague,3,Plague Death,357 days,1,Older Adult
+1900-12-26,3,F,Worms,2,Non-Plague Death,357 days,0,Child
+1900-12-26,62,M,Fever From Plague e Respiratory Infection,26,Plague Death,357 days,1,Older Adult
+1900-12-26,22,M,Most Likely Plague,7,Plague Death,357 days,1,Young Adult
+1900-12-26,34,F,Childbirth,3,Non-Plague Death,357 days,0,Young Adult
+1900-12-26,0,M,Illness,1,Non-Plague Death,357 days,0,Infant
+1900-12-26,13,F,Seizures From Plague,4,Plague Death,357 days,1,Teen
+1900-12-26,48,F,Most Likely Plague,7,Plague Death,357 days,1,Middle Age
+1900-12-26,12,M,Most Likely Plague,7,Plague Death,357 days,1,Child
+1900-12-26,10,F,Most Likely Plague,2,Plague Death,357 days,1,Child
+1900-12-26,3,M,Seizures From Plague,9,Plague Death,357 days,1,Child
+1900-12-27,0,M,Illness,1,Non-Plague Death,358 days,0,Infant
+1900-12-27,30,F,Died Suddenly ,1,Non-Plague Death,358 days,0,Young Adult
+1900-12-27,2,M,Seizures From Plague,60,Plague Death,358 days,1,Child
+1900-12-27,18,M,Plague,6,Plague Death,358 days,1,Teen
+1900-12-28,14,M,Most Likely Plague,2,Plague Death,359 days,1,Teen
+1900-12-28,40,F,Most Likely Plague,3,Plague Death,359 days,1,Middle Age
+1900-12-28,4,M,Worms,10,Non-Plague Death,359 days,0,Child
+1900-12-29,16,M,Most Likely Plague,7,Plague Death,360 days,1,Teen
+1900-12-29,9,F,Worms,6,Non-Plague Death,360 days,0,Child
+1900-12-29,70,F,Plague,1460,Plague Death,360 days,1,Older Adult
+1900-12-29,4,F,Seizures From Plague,4,Plague Death,360 days,1,Child
+1900-12-29,20,M,Headache,2,Non-Plague Death,360 days,0,Young Adult
+1900-12-30,85,F,Fever From Plague e Plague,90,Plague Death,361 days,1,Older Adult
+1900-12-30,0,F,Illness,1,Non-Plague Death,361 days,0,Infant
+1900-12-30,3,F,Worms,10,Non-Plague Death,361 days,0,Child
+1900-12-31,40,F,Fever From Plague,4,Plague Death,362 days,1,Middle Age
+1900-12-31,76,F,Most Likely Plague,10,Plague Death,362 days,1,Older Adult
